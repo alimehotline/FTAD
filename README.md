@@ -4,6 +4,12 @@ Dataset for paper "Human-to-Human Conversation Dataset for Learning Fine-grained
 
 ## Overview
 
+![pipeline](img/pipeline.png)
+
+![pipeline](img/state.png)
+
+![pipeline](img/sw2001.png)
+
 ## Data statistic
  
 ### Dataset summary
@@ -37,3 +43,6 @@ Dataset for paper "Human-to-Human Conversation Dataset for Learning Fine-grained
 
 
 ## Files
+
+## Data format
+
