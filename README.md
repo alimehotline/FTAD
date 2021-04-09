@@ -43,6 +43,19 @@ Dataset for paper "Human-to-Human Conversation Dataset for Learning Fine-grained
 
 
 ## Files
+All data files are under FTAD-sw.zip
+
+* `utterrances` contains the strutural annotation of dialogue transcription  
+    * `utter.txt`: corpus of dialogue, with each line as an IPU 
+    * `decision.txt`: the list of turn-taking decision points and corresponding actions of each dialogue 
+
+* `tasks` contains the turn-taking prediction task data constructed from utterrances
+    * `eot.txt`: end of turn prediction
+    * `break.txt`: response prediction at opponent's interruption
+    * `backchannel.txt`: sequenctial prediction task for backchannel
+    * `response_latency.txt`: expected response time prediction
+
+
 
 ## Data format
 
