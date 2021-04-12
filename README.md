@@ -18,7 +18,6 @@ Dataset for paper "Human-to-Human Conversation Dataset for Learning Fine-grained
 |---|:--:|
 |# of sessions | 2438|
 |Avg. session length | 6.33min|
-|Avg. session length | 6.33min|
 |Word per minute | 201|
 |# of Utterances per session | 141.20 |
 |# of Utterances per minute | 22.27|
